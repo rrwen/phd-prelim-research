@@ -1,0 +1,30 @@
+{
+  "name": "phd-prelim-research",
+  "version": "0.0.0",
+  "description": "Preliminary PhD research",
+  "main": "",
+  "scripts": {
+    "html": "node ./node_modules/reveal-md/bin/cli.js slides/wen2018_phd_prelim_research_slides.md --static docs --reveal-template slides/template.html",
+    "pdf": "node ./node_modules/decktape/decktape.js -s 1920x1080 reveal docs/index.html slides/wen2018_phd_prelim_research_slides.pdf"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrwen/phd-prelim-research.git"
+  },
+  "author": "Richard Wen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rrwen/phd-prelim-research/issues"
+  },
+  "homepage": "https://github.com/rrwen/phd-prelim-research#readme",
+  "dependencies": {
+    "reveal-md": "^0.5.0"
+  },
+  "optionalDependencies": {
+    "decktape": "^2.6.1",
+    "windows-build-tools": "^1.3.2"
+  }
+}

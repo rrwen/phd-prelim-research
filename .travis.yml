@@ -1,0 +1,12 @@
+language: node_js
+node_js:
+  - "node"
+  - "8"
+install:
+  - npm install
+script:
+  - git clone https://github.com/rrwen/phd-prelim-research
+  - cd phd-prelim-research
+  - npm install
+  - npm run html
+  - npm run pdf
