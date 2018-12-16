@@ -10,13 +10,21 @@
   font-size: 32pt;
 }
 
+.reveal h3 {
+  font-size: 32pt;
+  color: white;
+  background-color: black;
+  text-shadow: 0 1px 0 black;
+  padding: 0;
+}
+
 .reveal small {
   font-size: 24pt;
+  line-height: 50%;
 }
 
 .reveal p {
   font-size: 32pt;
-  line-height: 50%;
   padding: 0!important;
 }
 
@@ -59,11 +67,14 @@
 
 /** Reference **/
 
-.reference {
-  color: gray;
-  top: 100%;
-  left: 5%;
-  position: absolute;
+.cite {
+  font-size: 18pt !important;
+  vertical-align: super !important;
+}
+
+.reference-list {
+  font-size: 18pt;
+  text-align: left;
 }
 
 /** Formats **/
