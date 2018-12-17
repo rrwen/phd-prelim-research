@@ -5,7 +5,7 @@ revealOptions:
   transition: 'slide'
   controls: true
   slideNumber: true
-  width: '100%'
+  width: '90%'
 ---
 
 # Context-aware Geographic Information Systems for<br> Monitoring and Predicting Traffic Collisions
@@ -113,8 +113,8 @@ revealOptions:
 
 ## Research Objectives
 
-1. Discover an approach to use frequent and large amounts of contextual data in GIS
-2. Develop a context-aware GIS for predicting and monitoring traffic collisions
+1. Discover an approach to use frequent and<br>large amounts of contextual data in GIS
+2. Develop a context-aware GIS for predicting<br> and monitoring traffic collisions
 
 ---
 
@@ -144,8 +144,15 @@ revealOptions:
 
 ## Papers
 
-* Published review paper with Shishuo Xu on traffic event detection with geosocial media
+* Published review paper with Shishuo Xu and Dr. Songnian Li on <br>traffic event detection with geosocial media
 * Literature review of traffic collision prevention with GIS
+
+---
+
+Richard Wen  
+PhD Candidate, Geomatics Engineering 
+  
+rwen@ryerson.ca
 
 ---
 
@@ -153,9 +160,9 @@ revealOptions:
 
 <p class="reference-list">
 
-<span class="cite">1</span> World Health Organization (2018). Global status report on road safety 2018. 
+<span class="cite">1</span> World Health Organization (2018). Global status report on road safety 2018.  
 
-<span class="cite">2</span> International Monetary Fund (2018). Countries with the largest gross domestic product (GDP) 2017 (version). Retrieved from [https://www.statista.com/statistics/268173/countries-with-the-largest-gross-domestic-product-gdp/](https://www.statista.com/statistics/268173/countries-with-the-largest-gross-domestic-product-gdp/) 
+<span class="cite">2</span> International Monetary Fund (2018). Countries with the largest gross domestic product (GDP) 2017 (version). Retrieved from [https://www.statista.com/statistics/268173/countries-with-the-largest-gross-domestic-product-gdp/](https://www.statista.com/statistics/268173/countries-with-the-largest-gross-domestic-product-gdp/)  
 
 </p>
 

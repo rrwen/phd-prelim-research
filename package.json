@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/rrwen/phd-prelim-research#readme",
   "dependencies": {
+    "hummus": "^1.0.95",
     "reveal-md": "^0.5.0"
   },
   "optionalDependencies": {
