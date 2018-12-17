@@ -5,7 +5,7 @@
   "main": "",
   "scripts": {
     "html": "node ./node_modules/reveal-md/bin/cli.js slides/wen2018_phd_prelim_research_slides.md --static docs --reveal-template slides/template.html",
-    "pdf": "node ./node_modules/decktape/decktape.js -s 1200x960 reveal docs/index.html slides/wen2018_phd_prelim_research_slides.pdf"
+    "pdf": "node ./node_modules/decktape/decktape.js -s 1920x1080 reveal docs/index.html slides/wen2018_phd_prelim_research_slides.pdf"
   },
   "directories": {
     "test": "tests"

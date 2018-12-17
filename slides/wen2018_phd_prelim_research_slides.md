@@ -120,7 +120,7 @@ revealOptions:
 
 ## Research Contributions
 
-1. Approach for incoporating generic contextual data in GIS
+1. Approach for using generic contextual data with GIS
 2. Architecture for context-aware GIS
 3. Conceptual framework for building context-aware GIS solutions
 
