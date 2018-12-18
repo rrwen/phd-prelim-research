@@ -91,13 +91,13 @@ revealOptions:
 
 ### Collect and Monitor Traffic Collision Data
 
-<!-- .slide: data-background="./edit/img/ksi_cluster_map.png" -->
+<!-- .slide: data-background="./edit/img/ksi_cluster_map.jpg" -->
 
 ---
 
 ### Analyze and Model Traffic Collision
 
-<!-- .slide: data-background="./edit/img/ksi_heat_map.png" -->
+<!-- .slide: data-background="./edit/img/ksi_heat_map.jpg" -->
 
 ---
 
@@ -132,7 +132,7 @@ revealOptions:
 
 ### Toronto Tweet Location Prototype
 
-<!-- .slide: data-background="./edit/img/dashboard_prototype.png" -->
+<!-- .slide: data-background="./edit/img/dashboard_prototype.jpg" -->
 
 ---
 
